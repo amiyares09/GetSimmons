@@ -326,27 +326,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/random_color.png');
+    background: #fff url('../img/01random_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #cfe2f3 url('../img/new vassar.png');
+    background: #cfe2f3 url('../img/02new vassar.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/mccormick_color.png');
+    background: #fff url('../img/03mccormick_color.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/new_color.png');
+    background: #fff url('../img/04new_color.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/next_color.png');
+    background: #fff url('../img/05next_color.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/macgregor_color.png');
+    background: #fff url('../img/06macgregor_color.png');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/ec_color.png');
+    background: #fff url('../img/07ec_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -354,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/maseeh_color.png');
+    background: #fff url('../img/08maseeh_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -362,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/baker_color.png');
+    background: #fff url('../img/09baker_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/bc_color.png');
+    background: #fff url('../img/10bc_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -378,7 +378,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/simmons_color.png');
+    background: #fff url('../img/11simmons_color.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
